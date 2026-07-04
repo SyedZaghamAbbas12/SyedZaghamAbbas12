@@ -43,7 +43,7 @@ I’m actively working on:
 ---
 
 ## 🔗 Connect With Me
- [Email](syedzaghamabbas587@gmail.com)
+ [Email]    (syedzaghamabbas587@gmail.com)
 
 ---
 
