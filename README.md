@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building cle
 - 🌱 Exploring **Cloud Computing**, **Backend Development**, and **AI Integration**  
 - 👯 Open to collaborating on projects involving **mobile apps**, **APIs**, and **automation tools**  
 - 💬 Ask me about **JavaScript, React Native, TypeScript, Node.js, Git, and APIs**  
-- 📫 Reach me at: **yourEmail@example.com**  
+- 📫 Reach me at: **syedzaghamabbas587gmail.com**  
 - ⚡ Fun fact: I love solving real-world problems and constantly improving my development workflow
 
 ---
